@@ -1,0 +1,28 @@
+_repo: Rujub-the-Juggler_7229
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Henty, G. A. (George Alfred)
+    alias: Henty, George Alfred
+    birthdate: 1832
+    deathdate: 1902
+    gutenberg_agent_id: '1032'
+    url: http://www.gutenberg.org/2009/agents/1032
+    wikipedia: http://en.wikipedia.org/wiki/G._A._Henty
+description: ''
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7229'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- History -- Sepoy Rebellion, 1857-1858 -- Fiction'
+- !lcc 'PR'
+- !lcc 'PZ'
+- GITenberg
+title: Rujub, the Juggler
+url: http://www.gutenberg.org/ebooks/7229
